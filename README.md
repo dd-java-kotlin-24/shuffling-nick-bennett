@@ -1,19 +1,16 @@
-[//]: # (TODO Replace {project name} placeholder as appropriate; then, delete this line.)
-# {project name}
+# Shuffling
 
 ## Repository
 
-This repository holds Java and Kotlin code written in full or partial completion of an assignment or in-class exercise of the [Deep Dive](https://deepdivecoding.com/) Java and Kotlin training programs.
+This repository contains implementation code for a shuffling project in the Java & Kotlin bootcamp. 
 
 ## Project summary
 
-[//]: # (TODO Replace {project summary} placeholder as appropriate; then, delete this line.)
-{project summary}
+An implementation of Fisher-Yates-Durstenfeld to shuffle an array of Strings.
 
 ## Credits, copyrights, and license information
 
-[//]: # (TODO Replace {learners} placeholder in the line below; then, delete this line.)
-Java and Kotlin source code written by Nicholas Bennett and {learners}.
+Java and Kotlin source code written by Nicholas Bennett.
 
 Build scripts, workflow definitions, and instructional content written by Nicholas Bennett.
 
@@ -23,8 +20,7 @@ Build scripts, workflow definitions, and instructional content written by Nichol
 
 ### Java source code, Kotlin source code, and build scripts
 
-[//]: # (TODO Replace {learners} placeholder in the line below; then, delete this line.)
-&copy; 2026 CNM Ingenuity, Inc. and {learners}.
+&copy; 2026 CNM Ingenuity, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
